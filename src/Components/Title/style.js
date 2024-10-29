@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
         padding: 10,
         backgroundColor: "#f0f0f0",
         borderRadius: 5,
-        width: "50%",
+        verticalAlign:"top",
     },
 
     texTitle: {
